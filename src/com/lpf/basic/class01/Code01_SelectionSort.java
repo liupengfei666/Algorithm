@@ -1,4 +1,4 @@
-package com.lpf.basic.day1;
+package com.lpf.basic.class01;
 
 import java.util.Arrays;
 
