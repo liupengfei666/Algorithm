@@ -4,6 +4,7 @@ import java.util.Stack;
 
 /**
  * 有效括号
+ * https://mp.weixin.qq.com/s/ia8jjkE48FJxnnMO8_pdNQ
  */
 public class _ValidParentheses {
 
